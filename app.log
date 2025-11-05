@@ -1,0 +1,68 @@
+Nov 04, 2025 11:29:13 PM DAO.ProductDAO addProduct
+INFO: Product added: Console
+Nov 04, 2025 11:30:30 PM DAO.ProductDAO updateProductCategory
+INFO: Product category updated: ps2
+Nov 04, 2025 11:31:03 PM DAO.ProductDAO deleteProduct
+INFO: Product deleted: 16
+Nov 04, 2025 11:31:10 PM DAO.FeedbackDAO viewAllFeedback
+INFO: Feedback viewed successfully.
+Nov 04, 2025 11:31:45 PM DAO.FeedbackDAO replyToFeedback
+INFO: Reply added successfully.
+Nov 05, 2025 8:57:14 AM DAO.FeedbackDAO addFeedback
+INFO: Feedback added successfully.
+Nov 05, 2025 8:57:14 AM DAO.CustomerDAO addCustomer
+INFO: Customer added: TestUser
+Nov 05, 2025 8:57:14 AM DAO.CustomerDAO getCustomerByEmail
+INFO: Customer found: TestUser
+Nov 05, 2025 8:57:14 AM DAO.CustomerDAO updateCustomerEmail
+INFO: Customer email updated for ID: 1
+Nov 05, 2025 8:57:14 AM DAO.CustomerDAO getCustomerById
+INFO: Customer found: Sridhar
+Nov 05, 2025 8:57:14 AM DAO.ProductDAO addProduct
+INFO: Product added: Laptop
+Nov 05, 2025 8:57:14 AM DAO.ProductDAO getProductById
+INFO: Product found: 1
+Nov 05, 2025 8:57:14 AM DAO.ProductDAO updateProductCategory
+INFO: Product category updated: Electronics
+Nov 05, 2025 8:57:14 AM DAO.ProductDAO getProductById
+INFO: Product found: 1
+Nov 05, 2025 8:57:14 AM DAO.ProductDAO deleteProduct
+INFO: Product deleted: 0
+Nov 05, 2025 8:57:14 AM DAO.ProductDAO getProductById
+INFO: Product not found: 0
+Nov 05, 2025 8:57:14 AM DAO.CustomerDAO deleteCustomer
+INFO: Customer deleted: 3
+Nov 05, 2025 8:57:14 AM DAO.CustomerDAO getCustomerById
+INFO: Customer not found for ID: 3
+Nov 05, 2025 8:57:14 AM DAO.FeedbackDAO replyToFeedback
+INFO: Reply added successfully.
+Nov 05, 2025 8:58:06 AM DAO.FeedbackDAO addFeedback
+INFO: Feedback added successfully.
+Nov 05, 2025 8:58:06 AM DAO.CustomerDAO addCustomer
+INFO: Customer added: TestUser
+Nov 05, 2025 8:58:06 AM DAO.CustomerDAO getCustomerByEmail
+INFO: Customer found: TestUser
+Nov 05, 2025 8:58:06 AM DAO.CustomerDAO updateCustomerEmail
+INFO: Customer email updated for ID: 1
+Nov 05, 2025 8:58:06 AM DAO.CustomerDAO getCustomerById
+INFO: Customer found: Sridhar
+Nov 05, 2025 8:58:06 AM DAO.ProductDAO addProduct
+INFO: Product added: Laptop
+Nov 05, 2025 8:58:06 AM DAO.ProductDAO getProductById
+INFO: Product found: 1
+Nov 05, 2025 8:58:06 AM DAO.ProductDAO deleteProduct
+INFO: Product deleted: 0
+Nov 05, 2025 8:58:06 AM DAO.ProductDAO getProductById
+INFO: Product not found: 0
+Nov 05, 2025 8:58:06 AM DAO.CustomerDAO deleteCustomer
+INFO: Customer deleted: 3
+Nov 05, 2025 8:58:06 AM DAO.CustomerDAO getCustomerById
+INFO: Customer not found for ID: 3
+Nov 05, 2025 8:58:06 AM DAO.FeedbackDAO replyToFeedback
+INFO: Reply added successfully.
+Nov 05, 2025 1:49:53 PM DAO.CustomerDAO addCustomer
+INFO: Customer added: sridharsarav
+Nov 05, 2025 1:50:51 PM DAO.CustomerDAO updateCustomerEmail
+INFO: Customer email updated for ID: 29
+Nov 05, 2025 1:51:01 PM DAO.CustomerDAO deleteCustomer
+INFO: Customer deleted: 29
